@@ -1,6 +1,6 @@
 ---
 layout: page
-title: [Car] Dgo Purchasing Robot
+title: Dgo Purchasing Robot
 date: 2021-01-05 09:10
 author: admin
 comments: true
